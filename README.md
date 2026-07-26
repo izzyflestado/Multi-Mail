@@ -1,7 +1,6 @@
 # Gmail Multi-Launcher
 
 A Chrome extension (Manifest V3 + React + TypeScript + Vite) that automatically opens Gmail in separate tabs for your chosen Google accounts whenever you visit `gmail.com` or `mail.google.com`.
-
 > **Browser support:** Built for Chrome and other Chromium-based browsers (Edge, Brave, Opera, Vivaldi). **Not tested on Firefox or other non-Chromium browsers**, which use a different extension API (`browser.*`) and may need code changes to work correctly.
 
 ## Features
@@ -16,7 +15,7 @@ A Chrome extension (Manifest V3 + React + TypeScript + Vite) that automatically 
 
 ## Why manual account setup?
 
-Chrome has no API to list which Google accounts are signed in. So instead, you map each account to its Google account index once (the `N` in `mail.google.com/mail/u/N/`), and the extension remembers it.
+Google has no API to list which Google accounts are signed in. So instead, you map each account to its Google account index once (the `N` in `mail.google.com/mail/u/N/`), and the extension remembers it.
 
 ## Install (from source)
 
