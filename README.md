@@ -4,7 +4,9 @@ A Chrome extension (Manifest V3 + React + TypeScript + Vite) that automatically 
 > **Browser support:** Built for Chrome and other Chromium-based browsers (Edge, Brave, Opera, Vivaldi). **Not tested on Firefox or other non-Chromium browsers**, which use a different extension API (`browser.*`) and may need code changes to work correctly.
 
 ## Preview 
-![Multimail](media/mm.png)
+<p align="center">
+  <img src="media/mm.png" alt="Multimail" width="600">
+</p>
 
 ## Features
 
