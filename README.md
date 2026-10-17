@@ -4,7 +4,7 @@ A Chrome extension (Manifest V3 + React + TypeScript + Vite) that automatically 
 > **Browser support:** Built for Chrome and other Chromium-based browsers (Edge, Brave, Opera, Vivaldi). **Not tested on Firefox or other non-Chromium browsers**, which use a different extension API (`browser.*`) and may need code changes to work correctly.
 
 ## Preview 
-![Multi-Mail Screenshot](Media/Untitled%20design%20(1).png)
+[Multimail](media/mm.png)
 
 ## Features
 
