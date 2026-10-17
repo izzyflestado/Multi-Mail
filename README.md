@@ -5,7 +5,7 @@ A Chrome extension (Manifest V3 + React + TypeScript + Vite) that automatically 
 
 ## Preview 
 <p align="center">
-  <img src="media/mm.png" alt="Multimail" width="600">
+  <img src="media/mm.png" alt="Multimail" width="300">
 </p>
 
 ## Features
