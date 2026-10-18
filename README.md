@@ -2,7 +2,7 @@
 <p align="center">
   <img src='public/icons/icon128.png" 
       alt="multimail_logo"
-    </p>
+</p>
 
 A Chrome extension (Manifest V3 + React + TypeScript + Vite) that automatically opens Gmail in separate tabs for your chosen Google accounts whenever you visit `gmail.com` or `mail.google.com`.
 > **Browser support:** Built for Chrome and other Chromium-based browsers (Edge, Brave, Opera, Vivaldi). **Not tested on Firefox or other non-Chromium browsers**, which use a different extension API (`browser.*`) and may need code changes to work correctly.
