@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/icons/icon128.png" alt="Multimail_logo" width="50">
+  <img src="public/icons/icon128.png" alt="Multimail_logo" width="100">
 </p>
 
 # Gmail Multi-Mail Launcher
